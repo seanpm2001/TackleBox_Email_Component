@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🧰️✉️🪱️ The tacklebox is a separate email folder that holds phishing attempts (known as lures) it is separate from the spam folder, the inbox, and other folders.
